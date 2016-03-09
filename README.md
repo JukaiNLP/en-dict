@@ -1,7 +1,7 @@
 # en-dict
 
 This is a word dictionary in English.
-Most of entries are automatically collected from Wiktionary and online websites.
+Most of entries are collected from Wiktionary and other websites.
 
 ## Format
 ```
